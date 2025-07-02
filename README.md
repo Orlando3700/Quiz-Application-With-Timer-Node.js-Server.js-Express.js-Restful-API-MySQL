@@ -76,7 +76,7 @@ Prerequisites
 ### 3. Configure the MySQL Database
 - Create Database and Tables
 
-Run the following SQL in your MySQL shell or GUI (e.g., phpMyAdmin, MySQL Workbench):
+Run the following SQL in your MySQL Workbench):
 
 CREATE DATABASE quiz_app;
 
