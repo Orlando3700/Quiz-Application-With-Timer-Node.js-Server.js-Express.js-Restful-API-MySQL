@@ -67,8 +67,8 @@ Prerequisites
 - MySQL installed and running
 
 ### 1. Clone the Repository
-- git clone https://github.com/your-username/geography-quiz.git
-- cd geography-quiz
+- git clone https://github.com/Orlando3700/Quiz-Application-With-Timer-Node.js-Server.js-Express.js-Restful-API-MySQL.git
+- cd Quiz_App_With_Timer
 
 ### 2. Install Node Dependencies
 - npm install
